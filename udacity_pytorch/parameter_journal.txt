@@ -21,6 +21,11 @@ lr = 0.01
 epochs = 20
 dropout = 0.5
 validation loss = 19.01
+
+Round 3b:
+lr = 0.001
+epochs = + 10
+validation loss = 19.56
 -----------------------
 Round 4:
 Nodes = 425
@@ -49,3 +54,9 @@ epochs = +20
 validation loss = 24.28
 -----------------------
 Round 6:
+Nodes = 512
+layers = 2
+lr = 0.01
+epochs = 20
+dropout = 0.5
+validation loss = 39.56
