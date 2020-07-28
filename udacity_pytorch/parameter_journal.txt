@@ -1,0 +1,51 @@
+Round 1: 
+Nodes = 390
+layers = 2
+lr = 0.01
+epochs = 20
+dropout = 0.5
+validation loss = 19.41
+-----------------------
+Round 2: 
+Nodes = 300
+Layers = 2
+lr = 0.01
+epochs = 20
+dropout = 0.5
+validation loss = 46.92
+-----------------------
+Round 3:
+Nodes = 425
+Layers = 2
+lr = 0.01
+epochs = 20
+dropout = 0.5
+validation loss = 19.01
+-----------------------
+Round 4:
+Nodes = 425
+Layers = 2
+lr = 0.01
+epochs = 16
+dropout = 0.5
+validation loss = 19.06
+-----------------------
+Round 5a:
+Nodes = 475
+Layers = 2
+lr = 0.01
+epochs = 16
+dropout = 0.5
+validation loss = 29.53
+
+Round 5b:
+lr = 0.001
+epochs= +10
+validation loss = 26.08
+
+Round 5c:
+lr = 0.0005
+epochs = +20
+validation loss = 24.28
+-----------------------
+Round 6:
